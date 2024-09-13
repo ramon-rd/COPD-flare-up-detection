@@ -30,3 +30,7 @@ We hope that sharing this code will be helpful to other researchers for future i
     Fork the repository.
     Create a new branch for your feature or bug fix.
     Submit a pull request with a detailed description of your changes.
+
+## Funding acknowledgement
+
+The research leading to these results received funding from the Horizon 2020(h2020) Framework Programme of the European Union for Research Innovation under Grant Agreement No 857159-SHAPES-H2020-SC1-FA-DTS-2018-2020
